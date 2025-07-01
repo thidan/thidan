@@ -11,19 +11,19 @@
 ###
 
 <div align="center">
-  <img src="readme_imgs/img3.png" />
+  <img src="Captura de tela 2025-06-24 113708.png" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="readme_imgs/img1.png" />
+  <img src="Captura de tela 2025-06-24 113923.png" />
 </div>
 
 ###
 
 <div align="center">
-  <img height="600" src="readme_imgs/img2.png"  />
+  <img height="600" src="Captura de tela 2025-06-24 114207.png"  />
 </div>
 
 ###
